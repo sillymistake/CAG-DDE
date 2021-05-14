@@ -1,2 +1,2 @@
 # CAG-DDE
-[ICME 2021] CONFIDENCE-GUIDED ADAPTIVE GATE AND DUAL DIFFERENTIAL ENHANCEMENT FOR VIDEO SALIENT OBJECT DETECTION
+Confidence-guided Adaptive Gate and Dual Differential Enhancement for Video Salient Object Detection
